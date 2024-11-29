@@ -8,14 +8,19 @@ This is a Vue.js based portfolio that has simple login form, a profile, and othe
 - HTML/CSS
 
 ## How to Run Locally:
-1. Clone the repository:
+1. Clone the repository or Download the zip file:
 
-    - git clone https://github.com/yourusername/portfolio_vue.git
+        - git clone https://github.com/ArdredB/Vue-Portfolio.git
+  
+   1.1. If using Zip file:
+
+       - extract the file
+       - cd to the file directory
    
-2. Install dependencies:
+3. Install dependencies:
    
     - npm install
   
-3. Run the project:
+4. Run the project:
 
    - npm run serve
